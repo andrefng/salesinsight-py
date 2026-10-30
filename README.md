@@ -111,9 +111,3 @@ O desenvolvimento foi dividido em tarefas, com testes e commits descritivos ante
 
 As mensagens dos commits identificam as mudanças realizadas. As integrações utilizam commits de merge para registrar a conclusão de cada etapa.
 
-
-## Vídeo de demonstração
-
-Em preparação. O link será acrescentado após a gravação.
-
-
